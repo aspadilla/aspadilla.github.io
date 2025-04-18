@@ -2,7 +2,7 @@
 title: book
 ---
 
-title: Enemigos íntimos. España y los Estados Unidos antes de la Guerra de Cuba (1865-1898) 
+## Enemigos íntimos. España y los Estados Unidos antes de la Guerra de Cuba (1865-1898) 
 
 Published in spring 2016, this book tries to answer the following question: What role did the Spanish Monarchy play in the evolution of U.S. foreign policy in the age of imperialism?
 
