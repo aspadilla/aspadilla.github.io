@@ -5,5 +5,5 @@ I received my Ph.D. in History from the Complutense University of Madrid (Spain)
 
 My main interest remains in the study of U.S. foreign poliicy in the nineteenth and twentieth centuries. My current research builds on my Ph.D. to explore the intersection of U.S. development aid, global capitalism and the Cold War in Latin America in the aftermath of the Cuban Revolution.
 
-Email address: aspadilla@unizar.es 
+Email address mailto: aspadilla@unizar.es 
 
