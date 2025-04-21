@@ -1,5 +1,5 @@
 ---
-title: Bio
+title: About
 ---
 I am Associate Professor of History and International Relations at the Centro Universitario de la Defensa in Zaragoza, Spain. I have also taught at the Complutense University of Madrid, the European University, the University of Navarra, Syracuse University, ESIC Business & Marketing School, Saint Louis University and was a visiting scholar at Georgetown University (2011-12) and the University of Wisconsin-Madison (2016).
 
